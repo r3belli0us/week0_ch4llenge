@@ -1,6 +1,6 @@
 # Week 0 Challenge
 
-This project analyzes historical climate data from multiple African countries.
+This project analyzes historical climate data from 5 African countries.
 
 ## Objectives
 - Explore temperature, rainfall, and climate patterns
