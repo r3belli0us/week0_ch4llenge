@@ -25,3 +25,7 @@ Open the notebooks in Google Colab and run all cells.
 
 ## Key Insight
 The analysis highlights differences in climate patterns across countries, including variations in temperature, rainfall, and extreme weather conditions, indicating uneven climate vulnerability across the region.
+
+## Environment Setup
+Install dependencies using:
+pip install -r requirements.txt
